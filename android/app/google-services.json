@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158957688001",
+    "project_id": "chatterhook-a3810",
+    "storage_bucket": "chatterhook-a3810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158957688001:android:4ed98cc4763827f5eeb040",
+        "android_client_info": {
+          "package_name": "com.chatterhook.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtbHnucOswCtIreKX50PNe_pLucA-iHmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
